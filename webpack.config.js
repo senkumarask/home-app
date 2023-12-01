@@ -43,7 +43,7 @@ module.exports = {
             // and its module definition is "remoteEntry.js".
             remotes: {
                 // a remote 'Header' from the url '<http://localhost:3001/remoteEntry.js>'
-                "HeaderApp": "HeaderApp@http://localhost:3001/remoteEntry.js",  
+                "HeaderApp": "HeaderApp@https://main.dzdpa76tpp9uc.amplifyapp.com/remoteEntry.js",  
             },
             shared: {
                 ...dependencies,
